@@ -1,0 +1,1 @@
+from .pipeline_inpaint_anything import InpaintAnythingPipeline

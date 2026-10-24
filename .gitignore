@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+checkpoints/
+outputs/
+results/
+wandb/
+.DS_Store

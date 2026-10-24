@@ -1,0 +1,1 @@
+from .hidiffusion import HiDiffusionControl

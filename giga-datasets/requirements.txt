@@ -1,0 +1,12 @@
+accelerate
+decord
+ftfy
+imageio
+lmdb
+lpips
+nuscenes-devkit
+opencv-python
+pytorch-fid
+scikit-image
+terminaltables
+transformers
