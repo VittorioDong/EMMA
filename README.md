@@ -19,15 +19,15 @@ Each video is organized into three rows: the first row shows the original videos
 
 #### Fold Clothes (Real-to-Real)
 
-<video src="https://github.com/user-attachments/assets/2d4ee10c-c766-4d1e-95ea-4d2d42f0662b" width="100%" poster=""></video>
+<video src="https://github.com/user-attachments/assets/2d4ee10c-c766-4d1e-95ea-4d2d42f0662b" controls muted loop playsinline width="100%"></video>
 
 #### Clean Desk (Sim-to-Real)
 
-<video src="https://github.com/user-attachments/assets/4641783f-f678-4d12-ad36-092f093dd9bb" width="100%" poster=""></video>
+<video src="https://github.com/user-attachments/assets/4641783f-f678-4d12-ad36-092f093dd9bb" controls muted loop playsinline width="100%"></video>
 
 #### Throw Bottles (Sim-to-Real)
 
-<video src="https://github.com/user-attachments/assets/4148fa2a-6f20-495c-97f2-bb02454c31ef" width="100%" poster=""></video>
+<video src="https://github.com/user-attachments/assets/4148fa2a-6f20-495c-97f2-bb02454c31ef" controls muted loop playsinline width="100%"></video>
 
 
 ### Real-world Robot Deployment
