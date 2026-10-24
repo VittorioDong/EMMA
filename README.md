@@ -1,8 +1,12 @@
-# EMMA
+# EMMA: Enhancing Robotic Control Robustness through Generative Visual Model
 
 EMMA (Embodied Manipulation Media Adaptation) is a framework that enhances Vision-Language-Action (VLA) robot manipulation models (DreamTransfer) by combining a multi-view world model with an adaptive training strategy.
 
-**🌐 [Project Page](https://emma-gigaai.github.io/)** | **📄 [Paper](https://arxiv.org/pdf/2509.22407)** | **⚖️ [License](LICENSE)**
+<div align="center">
+[![Conference Version Paper](https://img.shields.io/static/v1?label=Conference%20Version&message=Paper&color=blue)](https://openreview.net/pdf?id=E5lvpA2Glx)
+[![Project](https://img.shields.io/badge/Project-Website-blue)](https://emma-gigaai.github.io/)
+[![License](https://img.shields.io/badge/License-Apache--2.0-green)](LICENSE)
+</div>
 
 ## News
 
