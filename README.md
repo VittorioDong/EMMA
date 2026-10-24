@@ -19,24 +19,24 @@ Each video is organized into three rows: the first row shows the original videos
 
 #### Fold Clothes (Real-to-Real)
 
-<video src="https://github.com/user-attachments/assets/2777f2f6-f918-4344-b8ad-0f25c6c578bb" width="100%" poster=""> </video>
+<video src="https://github.com/user-attachments/assets/2d4ee10c-c766-4d1e-95ea-4d2d42f0662b" width="100%" poster=""></video>
 
 #### Clean Desk (Sim-to-Real)
 
-<video src="https://github.com/user-attachments/assets/38eb5f58-7ee3-4f07-8e65-b67811fba865" width="100%" poster=""> </video>
+<video src="https://github.com/user-attachments/assets/4641783f-f678-4d12-ad36-092f093dd9bb" width="100%" poster=""></video>
 
 #### Throw Bottles (Sim-to-Real)
 
-<video src="https://github.com/user-attachments/assets/dde07fe8-b88d-4ad8-8e5b-7cfbca4eb243" width="100%" poster=""> </video>
+<video src="https://github.com/user-attachments/assets/4148fa2a-6f20-495c-97f2-bb02454c31ef" width="100%" poster=""></video>
 
 
 ### Real-world Robot Deployment
 
-<video src="assets/robot_deployment/fold_clothes.mp4" controls muted loop playsinline width="100%"></video>
+<video src="https://github.com/user-attachments/assets/1a6f7d50-8100-4f48-abfc-f3ce64f88b9b" controls muted loop playsinline width="100%"></video>
 
-<video src="assets/robot_deployment/clean_desk.mp4" controls muted loop playsinline width="100%"></video>
+<video src="https://github.com/user-attachments/assets/0c22f9ba-5d95-4ba5-90bd-91d7d47711eb" controls muted loop playsinline width="100%"></video>
 
-<video src="assets/robot_deployment/throw_bottle.mp4" controls muted loop playsinline width="100%"></video>
+<video src="https://github.com/user-attachments/assets/b12f4248-0b1c-4458-b6d3-28a9a110a661" controls muted loop playsinline width="100%"></video>
 
 ## DreamTransfer
 
